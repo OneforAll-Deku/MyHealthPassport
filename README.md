@@ -11,11 +11,9 @@ MyHealthPassport is an Android application built using Jetpack Compose that secu
 - **Image Analysis:** Integrates Gemini API to analyze medical certificates and extract data using the Gemini-1.5-flash model.
 - **User-Friendly Interface:** Designed with Jetpack Compose for a modern and intuitive user experience.
 
-## Youtube Demo
+## App Demo
 
-<div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ynrQeHOuMQ8" frameborder="0" allowfullscreen></iframe>
-</div>
+Youtube Link- https://youtu.be/cY1sU-AKsRY
 
 ## Screenshots
 
