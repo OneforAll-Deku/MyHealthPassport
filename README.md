@@ -18,8 +18,8 @@ Youtube Link- https://youtu.be/cY1sU-AKsRY
 ## Screenshots
 
 <img src="https://github.com/user-attachments/assets/19502c66-faa7-47a3-a10a-ab892dd0fe02" alt="Screenshot_20240807_020345" width="300"/>
-<img src="https://github.com/user-attachments/assets/76602f36-e36c-4fe6-a1f8-c319f761c2c7" alt="Screenshot_20240709_200116" width="300"/>
 <img src="https://github.com/user-attachments/assets/dbfce296-0321-4ad3-96de-29149b56adcf" alt="Screenshot_20240625_015445" width="300"/>
+<img src="https://github.com/user-attachments/assets/76602f36-e36c-4fe6-a1f8-c319f761c2c7" alt="Screenshot_20240709_200116" width="300"/>
 
 ## Installation
 
