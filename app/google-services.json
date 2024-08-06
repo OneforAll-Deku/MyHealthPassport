@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "231155947287",
+    "project_id": "healthify-30c3c",
+    "storage_bucket": "healthify-30c3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231155947287:android:b30723b683db755fdb0952",
+        "android_client_info": {
+          "package_name": "com.example.healthify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0gFJMEIsY6SJrxk7thg66Wokxw-UDVig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231155947287:android:383fc705aa5d846fdb0952",
+        "android_client_info": {
+          "package_name": "com.example.myhealthpassport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0gFJMEIsY6SJrxk7thg66Wokxw-UDVig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyHealth Passport</string>
+    <string name="results_placeholder">(Results will appear here)</string>
+    <string name="label_prompt">Prompt</string>
+    <string name="action_go">Go</string>
+    <string name="prompt">Analyse the image of medical certificate, then give output in this format:
+        1. Explain the disease in detail
+        2. Explain the medications in detail</string>
+</resources>
