@@ -70,7 +70,6 @@ dependencies {
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
     implementation("com.google.firebase:firebase-auth:21.0.1")
-
     val nav_version = "2.7.7"
     implementation("androidx.navigation:navigation-compose:$nav_version")
 
@@ -86,10 +85,8 @@ dependencies {
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
 
-
     implementation("com.airbnb.android:lottie-compose:6.4.0")
     implementation("androidx.core:core-splashscreen:1.0.1")
-
 
     // Import the BoM for the Firebase platform
     implementation(platform("com.google.firebase:firebase-bom:33.1.1"))
@@ -98,5 +95,17 @@ dependencies {
     // When using the BoM, you don't specify versions in Firebase library dependencies
     implementation("com.google.firebase:firebase-firestore")
 
-    implementation("io.coil-kt:coil-compose:2.6.0")
+    implementation("androidx.compose.runtime:runtime-livedata:1.6.8")
+
+    implementation("io.coil-kt:coil-compose:2.7.0")
+
+    val retrofitVersion = "2.11.0"
+    implementation("com.squareup.retrofit2:retrofit:$retrofitVersion")
+    implementation("com.squareup.retrofit2:converter-gson:$retrofitVersion")
+
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.4")
+    implementation("com.squareup.okhttp3:okhttp:4.9.1")
+
+    //MongoDB driver
+   // implementation("org.mongodb:mongodb-driver-kotlin-coroutine:5.1.2")
 }
